@@ -1,7 +1,7 @@
 Package: GHLandscape
 Title: The landscape of actionable genomic alterations in cell-free circulating tumor DNA from 21,807 advanced cancer patients
 Version: 0.1
-Author: Oliver Zill <zill.oliver@gmail.com>
+Author: Stephen Fairclough <sfairclough@guardanthealth.com>
 Maintainer: Guardant Health Bioinformatics <biodesk@guardanthealth.com>
 Description: Code generates figure panels for Zill et al ctDNA landscape study.
 Depends: R (>= 3.3.0), stringr, cgdsr, reshape2, grid, gridExtra, GenomeGraphs
